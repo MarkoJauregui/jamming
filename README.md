@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Spotify
+
+You need to get access to your Spotify client ID (https://developer.spotify.com/dashboard/applications) and paste it on the variable clientID in src/util/Spotify.js file
+
 ## Available Scripts
 
 In the project directory, you can run:
